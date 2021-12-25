@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aayush987
-- 👀 I’m not sure what i am interested in ,so maybe going to update it in future.
+- 👀 I’m exploring various things right now as i am new in this field.
 - 🌱 I’m new in this field so currently learning java with Data Structure and Algorithms.
 - 🌱 I also know small amount of python with pandas,matplotlib and numpy library.
 - 💞️ I’m looking to collaborate on many new and interesting stuffs which will be fun to learn on the go plus working on it.
