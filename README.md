@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Aayush987
+- 👋 Hi, I’m **Aayush Sharma**
 - 👀 I’m exploring various things right now as i am new in this field.
 - 🌱 I’m new in this field so currently learning java with Data Structure and Algorithms.
 - 🌱 I also know small amount of python with pandas,matplotlib and numpy library.
