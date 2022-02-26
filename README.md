@@ -1,8 +1,8 @@
  # Hi 👋,I’m Aayush Sharma 
  <div align = "center"><img align = "right" alt = "programmer" src = "https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" height ="300" widght ="400" style="vertical-align:middle;margin:0px 50px"/></div>
  <ul>
-  <li>👀 Learning various things right now - Web Dev, DevOps , Java,and many more. </li>
-  <li>🌱 I also know small amount of python with pandas,matplotlib and numpy library.</li>
+  <li>👀 Learning various things right now - Web Dev, DevOps , Java,and many more. </li><br>
+  <li>🌱 I also know small amount of python with pandas,matplotlib and numpy library.</li><br>
   <li>💞️ I’m looking to collaborate on many new and interesting stuffs which will be fun to learn on the go plus working on it.</li>
  </ul>
  <h3>Language & Tools:</h3>
