@@ -1,4 +1,4 @@
- # Hi 👋,I’m Aayush Sharma 
+ # Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width= "40px">,I’m Aayush Sharma 
  <div align = "center"><img align = "right" alt = "programmer" src = "https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" height ="300" widght ="400" style="vertical-align:middle;margin:0px 50px"/></div>
  <ul>
   <li>👀 Learning various things right now - Web Dev, DevOps , Java,and many more. </li><br>
@@ -27,6 +27,7 @@
  </div>
  <h3>Statistics:</h3>
  <img src="https://github-readme-stats.vercel.app/api?username=Aayush987&show_icons=true&theme=tokyonight" alt="Aayush Sharma" />
+ <img src ="https://visitor-badge.laobi.icu/badge?page_id=Aayush987" />
 <!---
 Aayush987/Aayush987 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
