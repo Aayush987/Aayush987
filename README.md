@@ -1,6 +1,5 @@
-# Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="40px">, I'm Aayush Sharma
-
-<div align="center">
+<div align = "center">
+  <img align = "stretch" width="100%" src = "https://github.com/Aayush987/Aayush987/assets/92387745/7e4e4011-c444-4e54-8c5b-73bce367a761" alt = "Header" />
   <img align="right" alt="programmer" src="https://github.com/Aayush987/Aayush987/assets/92387745/9e5599ff-9078-440f-98e2-f0b36769a2e3" height="300" width="400" style="vertical-align:middle;margin:0px 50px"/>
 </div>
 
@@ -15,6 +14,9 @@
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" alt="mongodb" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" alt="node" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original-wordmark.svg" alt="firebase" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" alt="VSCode" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="TailwindCSS" width="40" height="40"/>          
