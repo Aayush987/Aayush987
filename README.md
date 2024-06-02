@@ -37,7 +37,7 @@
   <img src = "https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="linkedin" />
  </a>
   <a href="mailto:aayushsharma47163@gmail.com">
-    <img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png" height="40" width="40"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="20" alt="gmail"/>
   </a>
   <a href="https://portfolio-website-v2-rho.vercel.app/">
     <img align="center" src="https://github.com/Aayush987/Aayush987/assets/92387745/e48ad6b7-7d43-454d-b7c0-644d195ef499" height="40" width="40"/>
